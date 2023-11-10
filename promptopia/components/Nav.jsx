@@ -86,6 +86,7 @@ const Nav = () => {
                 >
                   My Profile
                 </Link>
+                
                 <Link
                   href="/create-prompt"
                   className="dropdown_link"
